@@ -1,0 +1,8 @@
+tensorflow
+numpy
+matplotlib
+pillow
+jupyter
+
+# Optional (only if running on Google Colab):
+# google-colab
