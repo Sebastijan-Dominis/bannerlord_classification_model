@@ -4,7 +4,6 @@ This repository contains a dataset and an experiment notebook for a convolutiona
 
 ## Table of Contents
 - [What you'll find here](#what-youll-find-here)
-- [Model Training](#model-training)
 - [Dataset Structure](#dataset-structure)
 - [Installation](#installation)
 - [License](#license--data-notes)
