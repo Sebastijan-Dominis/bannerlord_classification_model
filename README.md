@@ -7,6 +7,7 @@ This repository contains a dataset and an experiment notebook for a convolutiona
 - [Dataset Structure](#dataset-structure)
 - [Installation](#installation)
 - [License](#license--data-notes)
+- [Author & Contact](#author--contact)
 
 ## What you'll find here
 - `Bannerlord.ipynb`: Jupyter notebook with the experimental code for data loading, training, validation, and basic evaluation/visualizations.
@@ -61,8 +62,11 @@ pip install -r requirements.txt
 > The notebook contains the code to load the images from `Dataset/`, define a model, train, and evaluate.
 
 ## License & data notes
-- This repository is licensed under the MIT License — see the `LICENSE` file for the full text.
-- The dataset was collected by the repository author for educational purposes. Redistribution and reuse are subject to the terms of the MIT License.
 
-**Contact / Author**
-- If you use or extend this project, please acknowledge the author (see repository metadata) where appropriate.
+- The dataset was collected by the repository author for educational purposes. Redistribution and reuse are subject to the terms of the MIT License.
+- See the `LICENSE` file for the full text.
+
+## Author & Contact
+
+- Author: Sebastijan Dominis
+- Contact: sebastijan.dominis99@gmail.com
