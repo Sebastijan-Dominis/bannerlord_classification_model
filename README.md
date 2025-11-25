@@ -6,7 +6,7 @@ This repository contains a dataset and an experiment notebook for a convolutiona
 - [What you'll find here](#what-youll-find-here)
 - [Dataset Structure](#dataset-structure)
 - [Installation](#installation)
-- [License](#license--data-notes)
+- [License](#license)
 - [Author & Contact](#author--contact)
 
 ## What you'll find here
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 > The notebook contains the code to load the images from `Dataset/`, define a model, train, and evaluate.
 
-## License & data notes
+## License
 
 - The dataset was collected by the repository author for educational purposes. Redistribution and reuse are subject to the terms of the MIT License.
 - See the `LICENSE` file for the full text.
