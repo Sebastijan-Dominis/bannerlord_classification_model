@@ -65,4 +65,4 @@ pip install -r requirements.txt
 - The dataset was collected by the repository author for educational purposes. Redistribution and reuse are subject to the terms of the MIT License.
 
 **Contact / Author**
-If you use or extend this project, please acknowledge the author (see repository metadata) where appropriate.
+- If you use or extend this project, please acknowledge the author (see repository metadata) where appropriate.
