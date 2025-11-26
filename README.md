@@ -2,6 +2,8 @@
 
 This repository contains a dataset and an experiment notebook for a convolutional classification model trained to recognize six basic troop types from Mount & Blade II: Bannerlord. The project was completed as part of the "Neural Networks and Deep Learning" course at the Faculty of Informatics Pula. The dataset was collected and labeled by the project author.
 
+---
+
 ## Table of Contents
 - [What you'll find here](#what-youll-find-here)
 - [Dataset Structure](#dataset-structure)
@@ -9,10 +11,14 @@ This repository contains a dataset and an experiment notebook for a convolutiona
 - [License](#license)
 - [Author & Contact](#author--contact)
 
+---
+
 ## What you'll find here
 - `Bannerlord.ipynb`: Jupyter notebook with the experimental code for data loading, training, validation, and basic evaluation/visualizations.
 - `Dataset/`: image dataset split into `training/`, `validation/`, and `test/` folders. Each split contains class subfolders.
 - `Documentation.pdf`: additional notes and documentation produced for the project.
+
+---
 
 ## Dataset structure
 The repo follows a standard image-classification layout:
@@ -33,6 +39,8 @@ Dataset/
 ```
 
 Each class folder holds images for that troop type. This structure is compatible with common PyTorch `ImageFolder` and TensorFlow `image_dataset_from_directory` utilities.
+
+---
 
 ## Installation
 
@@ -60,6 +68,8 @@ pip install -r requirements.txt
 4. Use the provided Jupyter notebook:
 
 > The notebook contains the code to load the images from `Dataset/`, define a model, train, and evaluate.
+
+---
 
 ## License
 
